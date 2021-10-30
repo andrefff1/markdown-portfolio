@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **SolidWorks**
+2. *Ansys*
+3. ***Office***
+4. AutoCAD
+5. Matlab
+6. Python
